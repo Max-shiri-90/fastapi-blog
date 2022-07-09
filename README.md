@@ -1,1 +1,4 @@
-# fastapi-project
+# fastapi-project 
+fastapi
+react
+mongodb
